@@ -3,7 +3,7 @@ export const PRODUCTS = [
   new Product(
     "p1",
     "u1",
-    "Tropica Lilaeopsis mauritiana",
+    "Lilaeopsis mauritiana",
     "../assets/images/tropica-lilaeopsis-mauritiana.jpg",
     "forceground plant",
     6.61
@@ -11,7 +11,7 @@ export const PRODUCTS = [
   new Product(
     "p2",
     "u1",
-    "Tropica Glossostigma elatinoides",
+    "Glossostigma elatinoides",
     "../assets/images/tropica-glossostigma-elatinoides.jpg",
     "forceground plant",
     5.29
